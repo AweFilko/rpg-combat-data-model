@@ -1,0 +1,776 @@
+item_ID,item_name,item_weight,eff_category,eff_factor,cost_factor,rarity,sell_cost,pref_class
+1,common swift dagger,1.0,slashing,1.2,0.7,1.05,117,rouge
+2,common swift shortsword,1.5,slashing,1.3,0.8,1.05,186,rouge
+3,common swift longsword,3.0,slashing,1.35,0.85,1.05,225,rouge
+4,common swift rapier,2.0,piercing,1.2,0.7,1.05,138,rouge
+5,common swift knife,0.5,piercing,1.1,0.6,1.05,60,rouge
+6,common swift spear,2.5,piercing,1.3,0.8,1.05,189,rouge
+7,common swift bow,1.8,piercing,1.25,0.75,1.05,162,rouge
+8,common swift crossbow,3.5,piercing,1.35,0.85,1.05,229,rouge
+9,common swift mace,3.2,blunt,1.2,0.7,1.05,148,rouge
+10,common swift hammer,4.0,blunt,1.35,0.85,1.05,231,rouge
+11,common swift flail,3.8,blunt,1.3,0.8,1.05,202,rouge
+12,common swift axe,3.0,slashing,1.25,0.75,1.05,174,rouge
+13,common swift shield,5.0,blunt,1.1,0.6,1.05,117,rouge
+14,common gallant dagger,1.0,slashing,1.2,0.7,1.05,126,knight
+15,common gallant shortsword,1.5,slashing,1.3,0.8,1.05,183,knight
+16,common gallant longsword,3.0,slashing,1.35,0.85,1.05,218,knight
+17,common gallant rapier,2.0,piercing,1.2,0.7,1.05,138,knight
+18,common gallant knife,0.5,piercing,1.1,0.6,1.05,69,knight
+19,common gallant spear,2.5,piercing,1.3,0.8,1.05,189,knight
+20,common gallant bow,1.8,piercing,1.25,0.75,1.05,154,knight
+21,common gallant crossbow,3.5,piercing,1.35,0.85,1.05,227,knight
+22,common gallant mace,3.2,blunt,1.2,0.7,1.05,141,knight
+23,common gallant hammer,4.0,blunt,1.35,0.85,1.05,236,knight
+24,common gallant flail,3.8,blunt,1.3,0.8,1.05,198,knight
+25,common gallant axe,3.0,slashing,1.25,0.75,1.05,174,knight
+26,common gallant shield,5.0,blunt,1.1,0.6,1.05,118,knight
+27,common blackstone dagger,1.0,slashing,1.2,0.7,1.05,119,dwarf
+28,common blackstone shortsword,1.5,slashing,1.3,0.8,1.05,181,dwarf
+29,common blackstone longsword,3.0,slashing,1.35,0.85,1.05,228,dwarf
+30,common blackstone rapier,2.0,piercing,1.2,0.7,1.05,127,dwarf
+31,common blackstone knife,0.5,piercing,1.1,0.6,1.05,65,dwarf
+32,common blackstone spear,2.5,piercing,1.3,0.8,1.05,185,dwarf
+33,common blackstone bow,1.8,piercing,1.25,0.75,1.05,163,dwarf
+34,common blackstone crossbow,3.5,piercing,1.35,0.85,1.05,225,dwarf
+35,common blackstone mace,3.2,blunt,1.2,0.7,1.05,140,dwarf
+36,common blackstone hammer,4.0,blunt,1.35,0.85,1.05,234,dwarf
+37,common blackstone flail,3.8,blunt,1.3,0.8,1.05,203,dwarf
+38,common blackstone axe,3.0,slashing,1.25,0.75,1.05,174,dwarf
+39,common blackstone shield,5.0,blunt,1.1,0.6,1.05,106,dwarf
+40,common cursed dagger,1.0,slashing,1.2,0.7,1.05,129,warlock
+41,common cursed shortsword,1.5,slashing,1.3,0.8,1.05,180,warlock
+42,common cursed longsword,3.0,slashing,1.35,0.85,1.05,230,warlock
+43,common cursed rapier,2.0,piercing,1.2,0.7,1.05,131,warlock
+44,common cursed knife,0.5,piercing,1.1,0.6,1.05,62,warlock
+45,common cursed spear,2.5,piercing,1.3,0.8,1.05,189,warlock
+46,common cursed bow,1.8,piercing,1.25,0.75,1.05,156,warlock
+47,common cursed crossbow,3.5,piercing,1.35,0.85,1.05,224,warlock
+48,common cursed mace,3.2,blunt,1.2,0.7,1.05,144,warlock
+49,common cursed hammer,4.0,blunt,1.35,0.85,1.05,239,warlock
+50,common cursed flail,3.8,blunt,1.3,0.8,1.05,205,warlock
+51,common cursed axe,3.0,slashing,1.25,0.75,1.05,173,warlock
+52,common cursed shield,5.0,blunt,1.1,0.6,1.05,109,warlock
+53,common holy dagger,1.0,slashing,1.2,0.7,1.05,121,paladin
+54,common holy shortsword,1.5,slashing,1.3,0.8,1.05,183,paladin
+55,common holy longsword,3.0,slashing,1.35,0.85,1.05,223,paladin
+56,common holy rapier,2.0,piercing,1.2,0.7,1.05,138,paladin
+57,common holy knife,0.5,piercing,1.1,0.6,1.05,60,paladin
+58,common holy spear,2.5,piercing,1.3,0.8,1.05,188,paladin
+59,common holy bow,1.8,piercing,1.25,0.75,1.05,157,paladin
+60,common holy crossbow,3.5,piercing,1.35,0.85,1.05,235,paladin
+61,common holy mace,3.2,blunt,1.2,0.7,1.05,152,paladin
+62,common holy hammer,4.0,blunt,1.35,0.85,1.05,235,paladin
+63,common holy flail,3.8,blunt,1.3,0.8,1.05,203,paladin
+64,common holy axe,3.0,slashing,1.25,0.75,1.05,165,paladin
+65,common holy shield,5.0,blunt,1.1,0.6,1.05,113,paladin
+66,common arcane fire wand,0.5,fire,1.25,0.75,1.05,155,mage
+67,common arcane fire staff,2.8,fire,1.35,0.85,1.05,246,mage
+68,common arcane fire orb,1.0,fire,1.15,0.65,1.05,100,mage
+69,common arcane fire grimoire,1.5,fire,1.2,0.7,1.05,137,mage
+70,common arcane fire pendant,0.5,fire,1.1,0.6,1.05,69,mage
+71,common arcane water wand,0.5,water,1.25,0.75,1.05,148,mage
+72,common arcane water staff,2.8,water,1.35,0.85,1.05,243,mage
+73,common arcane water orb,1.0,water,1.15,0.65,1.05,106,mage
+74,common arcane water grimoire,1.5,water,1.2,0.7,1.05,138,mage
+75,common arcane water pendant,0.5,water,1.1,0.6,1.05,77,mage
+76,common arcane earth wand,0.5,earth,1.25,0.75,1.05,156,mage
+77,common arcane earth staff,2.8,earth,1.35,0.85,1.05,245,mage
+78,common arcane earth orb,1.0,earth,1.15,0.65,1.05,104,mage
+79,common arcane earth grimoire,1.5,earth,1.2,0.7,1.05,137,mage
+80,common arcane earth pendant,0.5,earth,1.1,0.6,1.05,71,mage
+81,common arcane ice wand,0.5,ice,1.25,0.75,1.05,149,mage
+82,common arcane ice staff,2.8,ice,1.35,0.85,1.05,243,mage
+83,common arcane ice orb,1.0,ice,1.15,0.65,1.05,113,mage
+84,common arcane ice grimoire,1.5,ice,1.2,0.7,1.05,147,mage
+85,common arcane ice pendant,0.5,ice,1.1,0.6,1.05,72,mage
+86,common arcane lightning wand,0.5,lightning,1.25,0.75,1.05,149,mage
+87,common arcane lightning staff,2.8,lightning,1.35,0.85,1.05,251,mage
+88,common arcane lightning orb,1.0,lightning,1.15,0.65,1.05,113,mage
+89,common arcane lightning grimoire,1.5,lightning,1.2,0.7,1.05,151,mage
+90,common arcane lightning pendant,0.5,lightning,1.1,0.6,1.05,78,mage
+91,common arcane healing wand,0.5,healing,1.25,0.75,1.05,148,mage
+92,common arcane healing staff,2.8,healing,1.35,0.85,1.05,246,mage
+93,common arcane healing orb,1.0,healing,1.15,0.65,1.05,101,mage
+94,common arcane healing grimoire,1.5,healing,1.2,0.7,1.05,149,mage
+95,common arcane healing pendant,0.5,healing,1.1,0.6,1.05,77,mage
+96,common holy fire wand,0.5,fire,1.25,0.75,1.05,149,paladin
+97,common holy fire staff,2.8,fire,1.35,0.85,1.05,251,paladin
+98,common holy fire orb,1.0,fire,1.15,0.65,1.05,111,paladin
+99,common holy fire grimoire,1.5,fire,1.2,0.7,1.05,138,paladin
+100,common holy fire pendant,0.5,fire,1.1,0.6,1.05,68,paladin
+101,common holy water wand,0.5,water,1.25,0.75,1.05,149,paladin
+102,common holy water staff,2.8,water,1.35,0.85,1.05,248,paladin
+103,common holy water orb,1.0,water,1.15,0.65,1.05,107,paladin
+104,common holy water grimoire,1.5,water,1.2,0.7,1.05,137,paladin
+105,common holy water pendant,0.5,water,1.1,0.6,1.05,65,paladin
+106,common holy earth wand,0.5,earth,1.25,0.75,1.05,146,paladin
+107,common holy earth staff,2.8,earth,1.35,0.85,1.05,253,paladin
+108,common holy earth orb,1.0,earth,1.15,0.65,1.05,104,paladin
+109,common holy earth grimoire,1.5,earth,1.2,0.7,1.05,148,paladin
+110,common holy earth pendant,0.5,earth,1.1,0.6,1.05,69,paladin
+111,common holy ice wand,0.5,ice,1.25,0.75,1.05,145,paladin
+112,common holy ice staff,2.8,ice,1.35,0.85,1.05,256,paladin
+113,common holy ice orb,1.0,ice,1.15,0.65,1.05,103,paladin
+114,common holy ice grimoire,1.5,ice,1.2,0.7,1.05,149,paladin
+115,common holy ice pendant,0.5,ice,1.1,0.6,1.05,77,paladin
+116,common holy lightning wand,0.5,lightning,1.25,0.75,1.05,150,paladin
+117,common holy lightning staff,2.8,lightning,1.35,0.85,1.05,247,paladin
+118,common holy lightning orb,1.0,lightning,1.15,0.65,1.05,114,paladin
+119,common holy lightning grimoire,1.5,lightning,1.2,0.7,1.05,150,paladin
+120,common holy lightning pendant,0.5,lightning,1.1,0.6,1.05,66,paladin
+121,common holy healing wand,0.5,healing,1.25,0.75,1.05,154,paladin
+122,common holy healing staff,2.8,healing,1.35,0.85,1.05,244,paladin
+123,common holy healing orb,1.0,healing,1.15,0.65,1.05,106,paladin
+124,common holy healing grimoire,1.5,healing,1.2,0.7,1.05,147,paladin
+125,common holy healing pendant,0.5,healing,1.1,0.6,1.05,64,paladin
+126,common cursed fire wand,0.5,fire,1.25,0.75,1.05,142,warlock
+127,common cursed fire staff,2.8,fire,1.35,0.85,1.05,253,warlock
+128,common cursed fire orb,1.0,fire,1.15,0.65,1.05,107,warlock
+129,common cursed fire grimoire,1.5,fire,1.2,0.7,1.05,140,warlock
+130,common cursed fire pendant,0.5,fire,1.1,0.6,1.05,73,warlock
+131,common cursed water wand,0.5,water,1.25,0.75,1.05,142,warlock
+132,common cursed water staff,2.8,water,1.35,0.85,1.05,248,warlock
+133,common cursed water orb,1.0,water,1.15,0.65,1.05,103,warlock
+134,common cursed water grimoire,1.5,water,1.2,0.7,1.05,146,warlock
+135,common cursed water pendant,0.5,water,1.1,0.6,1.05,77,warlock
+136,common cursed earth wand,0.5,earth,1.25,0.75,1.05,152,warlock
+137,common cursed earth staff,2.8,earth,1.35,0.85,1.05,256,warlock
+138,common cursed earth orb,1.0,earth,1.15,0.65,1.05,111,warlock
+139,common cursed earth grimoire,1.5,earth,1.2,0.7,1.05,140,warlock
+140,common cursed earth pendant,0.5,earth,1.1,0.6,1.05,65,warlock
+141,common cursed ice wand,0.5,ice,1.25,0.75,1.05,147,warlock
+142,common cursed ice staff,2.8,ice,1.35,0.85,1.05,256,warlock
+143,common cursed ice orb,1.0,ice,1.15,0.65,1.05,107,warlock
+144,common cursed ice grimoire,1.5,ice,1.2,0.7,1.05,140,warlock
+145,common cursed ice pendant,0.5,ice,1.1,0.6,1.05,69,warlock
+146,common cursed lightning wand,0.5,lightning,1.25,0.75,1.05,151,warlock
+147,common cursed lightning staff,2.8,lightning,1.35,0.85,1.05,253,warlock
+148,common cursed lightning orb,1.0,lightning,1.15,0.65,1.05,112,warlock
+149,common cursed lightning grimoire,1.5,lightning,1.2,0.7,1.05,140,warlock
+150,common cursed lightning pendant,0.5,lightning,1.1,0.6,1.05,76,warlock
+151,common cursed healing wand,0.5,healing,1.25,0.75,1.05,142,warlock
+152,common cursed healing staff,2.8,healing,1.35,0.85,1.05,251,warlock
+153,common cursed healing orb,1.0,healing,1.15,0.65,1.05,109,warlock
+154,common cursed healing grimoire,1.5,healing,1.2,0.7,1.05,144,warlock
+155,common cursed healing pendant,0.5,healing,1.1,0.6,1.05,78,warlock
+156,uncommon swift dagger,1.0,slashing,1.2,0.7,1.1,124,rouge
+157,uncommon swift shortsword,1.5,slashing,1.3,0.8,1.1,188,rouge
+158,uncommon swift longsword,3.0,slashing,1.35,0.85,1.1,240,rouge
+159,uncommon swift rapier,2.0,piercing,1.2,0.7,1.1,134,rouge
+160,uncommon swift knife,0.5,piercing,1.1,0.6,1.1,70,rouge
+161,uncommon swift spear,2.5,piercing,1.3,0.8,1.1,207,rouge
+162,uncommon swift bow,1.8,piercing,1.25,0.75,1.1,170,rouge
+163,uncommon swift crossbow,3.5,piercing,1.35,0.85,1.1,242,rouge
+164,uncommon swift mace,3.2,blunt,1.2,0.7,1.1,151,rouge
+165,uncommon swift hammer,4.0,blunt,1.35,0.85,1.1,248,rouge
+166,uncommon swift flail,3.8,blunt,1.3,0.8,1.1,218,rouge
+167,uncommon swift axe,3.0,slashing,1.25,0.75,1.1,175,rouge
+168,uncommon swift shield,5.0,blunt,1.1,0.6,1.1,118,rouge
+169,uncommon gallant dagger,1.0,slashing,1.2,0.7,1.1,131,knight
+170,uncommon gallant shortsword,1.5,slashing,1.3,0.8,1.1,184,knight
+171,uncommon gallant longsword,3.0,slashing,1.35,0.85,1.1,239,knight
+172,uncommon gallant rapier,2.0,piercing,1.2,0.7,1.1,137,knight
+173,uncommon gallant knife,0.5,piercing,1.1,0.6,1.1,61,knight
+174,uncommon gallant spear,2.5,piercing,1.3,0.8,1.1,206,knight
+175,uncommon gallant bow,1.8,piercing,1.25,0.75,1.1,171,knight
+176,uncommon gallant crossbow,3.5,piercing,1.35,0.85,1.1,242,knight
+177,uncommon gallant mace,3.2,blunt,1.2,0.7,1.1,153,knight
+178,uncommon gallant hammer,4.0,blunt,1.35,0.85,1.1,239,knight
+179,uncommon gallant flail,3.8,blunt,1.3,0.8,1.1,221,knight
+180,uncommon gallant axe,3.0,slashing,1.25,0.75,1.1,179,knight
+181,uncommon gallant shield,5.0,blunt,1.1,0.6,1.1,119,knight
+182,uncommon blackstone dagger,1.0,slashing,1.2,0.7,1.1,128,dwarf
+183,uncommon blackstone shortsword,1.5,slashing,1.3,0.8,1.1,188,dwarf
+184,uncommon blackstone longsword,3.0,slashing,1.35,0.85,1.1,239,dwarf
+185,uncommon blackstone rapier,2.0,piercing,1.2,0.7,1.1,144,dwarf
+186,uncommon blackstone knife,0.5,piercing,1.1,0.6,1.1,74,dwarf
+187,uncommon blackstone spear,2.5,piercing,1.3,0.8,1.1,193,dwarf
+188,uncommon blackstone bow,1.8,piercing,1.25,0.75,1.1,163,dwarf
+189,uncommon blackstone crossbow,3.5,piercing,1.35,0.85,1.1,245,dwarf
+190,uncommon blackstone mace,3.2,blunt,1.2,0.7,1.1,147,dwarf
+191,uncommon blackstone hammer,4.0,blunt,1.35,0.85,1.1,240,dwarf
+192,uncommon blackstone flail,3.8,blunt,1.3,0.8,1.1,215,dwarf
+193,uncommon blackstone axe,3.0,slashing,1.25,0.75,1.1,180,dwarf
+194,uncommon blackstone shield,5.0,blunt,1.1,0.6,1.1,117,dwarf
+195,uncommon cursed dagger,1.0,slashing,1.2,0.7,1.1,127,warlock
+196,uncommon cursed shortsword,1.5,slashing,1.3,0.8,1.1,189,warlock
+197,uncommon cursed longsword,3.0,slashing,1.35,0.85,1.1,226,warlock
+198,uncommon cursed rapier,2.0,piercing,1.2,0.7,1.1,141,warlock
+199,uncommon cursed knife,0.5,piercing,1.1,0.6,1.1,72,warlock
+200,uncommon cursed spear,2.5,piercing,1.3,0.8,1.1,196,warlock
+201,uncommon cursed bow,1.8,piercing,1.25,0.75,1.1,167,warlock
+202,uncommon cursed crossbow,3.5,piercing,1.35,0.85,1.1,237,warlock
+203,uncommon cursed mace,3.2,blunt,1.2,0.7,1.1,157,warlock
+204,uncommon cursed hammer,4.0,blunt,1.35,0.85,1.1,237,warlock
+205,uncommon cursed flail,3.8,blunt,1.3,0.8,1.1,218,warlock
+206,uncommon cursed axe,3.0,slashing,1.25,0.75,1.1,176,warlock
+207,uncommon cursed shield,5.0,blunt,1.1,0.6,1.1,121,warlock
+208,uncommon holy dagger,1.0,slashing,1.2,0.7,1.1,131,paladin
+209,uncommon holy shortsword,1.5,slashing,1.3,0.8,1.1,194,paladin
+210,uncommon holy longsword,3.0,slashing,1.35,0.85,1.1,227,paladin
+211,uncommon holy rapier,2.0,piercing,1.2,0.7,1.1,135,paladin
+212,uncommon holy knife,0.5,piercing,1.1,0.6,1.1,62,paladin
+213,uncommon holy spear,2.5,piercing,1.3,0.8,1.1,199,paladin
+214,uncommon holy bow,1.8,piercing,1.25,0.75,1.1,158,paladin
+215,uncommon holy crossbow,3.5,piercing,1.35,0.85,1.1,233,paladin
+216,uncommon holy mace,3.2,blunt,1.2,0.7,1.1,146,paladin
+217,uncommon holy hammer,4.0,blunt,1.35,0.85,1.1,242,paladin
+218,uncommon holy flail,3.8,blunt,1.3,0.8,1.1,216,paladin
+219,uncommon holy axe,3.0,slashing,1.25,0.75,1.1,185,paladin
+220,uncommon holy shield,5.0,blunt,1.1,0.6,1.1,122,paladin
+221,uncommon arcane fire wand,0.5,fire,1.25,0.75,1.1,157,mage
+222,uncommon arcane fire staff,2.8,fire,1.35,0.85,1.1,265,mage
+223,uncommon arcane fire orb,1.0,fire,1.15,0.65,1.1,116,mage
+224,uncommon arcane fire grimoire,1.5,fire,1.2,0.7,1.1,149,mage
+225,uncommon arcane fire pendant,0.5,fire,1.1,0.6,1.1,80,mage
+226,uncommon arcane water wand,0.5,water,1.25,0.75,1.1,154,mage
+227,uncommon arcane water staff,2.8,water,1.35,0.85,1.1,266,mage
+228,uncommon arcane water orb,1.0,water,1.15,0.65,1.1,105,mage
+229,uncommon arcane water grimoire,1.5,water,1.2,0.7,1.1,153,mage
+230,uncommon arcane water pendant,0.5,water,1.1,0.6,1.1,79,mage
+231,uncommon arcane earth wand,0.5,earth,1.25,0.75,1.1,149,mage
+232,uncommon arcane earth staff,2.8,earth,1.35,0.85,1.1,263,mage
+233,uncommon arcane earth orb,1.0,earth,1.15,0.65,1.1,108,mage
+234,uncommon arcane earth grimoire,1.5,earth,1.2,0.7,1.1,154,mage
+235,uncommon arcane earth pendant,0.5,earth,1.1,0.6,1.1,68,mage
+236,uncommon arcane ice wand,0.5,ice,1.25,0.75,1.1,152,mage
+237,uncommon arcane ice staff,2.8,ice,1.35,0.85,1.1,259,mage
+238,uncommon arcane ice orb,1.0,ice,1.15,0.65,1.1,118,mage
+239,uncommon arcane ice grimoire,1.5,ice,1.2,0.7,1.1,150,mage
+240,uncommon arcane ice pendant,0.5,ice,1.1,0.6,1.1,68,mage
+241,uncommon arcane lightning wand,0.5,lightning,1.25,0.75,1.1,160,mage
+242,uncommon arcane lightning staff,2.8,lightning,1.35,0.85,1.1,256,mage
+243,uncommon arcane lightning orb,1.0,lightning,1.15,0.65,1.1,118,mage
+244,uncommon arcane lightning grimoire,1.5,lightning,1.2,0.7,1.1,156,mage
+245,uncommon arcane lightning pendant,0.5,lightning,1.1,0.6,1.1,71,mage
+246,uncommon arcane healing wand,0.5,healing,1.25,0.75,1.1,152,mage
+247,uncommon arcane healing staff,2.8,healing,1.35,0.85,1.1,268,mage
+248,uncommon arcane healing orb,1.0,healing,1.15,0.65,1.1,107,mage
+249,uncommon arcane healing grimoire,1.5,healing,1.2,0.7,1.1,144,mage
+250,uncommon arcane healing pendant,0.5,healing,1.1,0.6,1.1,76,mage
+251,uncommon holy fire wand,0.5,fire,1.25,0.75,1.1,150,paladin
+252,uncommon holy fire staff,2.8,fire,1.35,0.85,1.1,257,paladin
+253,uncommon holy fire orb,1.0,fire,1.15,0.65,1.1,110,paladin
+254,uncommon holy fire grimoire,1.5,fire,1.2,0.7,1.1,154,paladin
+255,uncommon holy fire pendant,0.5,fire,1.1,0.6,1.1,67,paladin
+256,uncommon holy water wand,0.5,water,1.25,0.75,1.1,160,paladin
+257,uncommon holy water staff,2.8,water,1.35,0.85,1.1,265,paladin
+258,uncommon holy water orb,1.0,water,1.15,0.65,1.1,113,paladin
+259,uncommon holy water grimoire,1.5,water,1.2,0.7,1.1,149,paladin
+260,uncommon holy water pendant,0.5,water,1.1,0.6,1.1,81,paladin
+261,uncommon holy earth wand,0.5,earth,1.25,0.75,1.1,162,paladin
+262,uncommon holy earth staff,2.8,earth,1.35,0.85,1.1,268,paladin
+263,uncommon holy earth orb,1.0,earth,1.15,0.65,1.1,106,paladin
+264,uncommon holy earth grimoire,1.5,earth,1.2,0.7,1.1,152,paladin
+265,uncommon holy earth pendant,0.5,earth,1.1,0.6,1.1,77,paladin
+266,uncommon holy ice wand,0.5,ice,1.25,0.75,1.1,151,paladin
+267,uncommon holy ice staff,2.8,ice,1.35,0.85,1.1,262,paladin
+268,uncommon holy ice orb,1.0,ice,1.15,0.65,1.1,115,paladin
+269,uncommon holy ice grimoire,1.5,ice,1.2,0.7,1.1,145,paladin
+270,uncommon holy ice pendant,0.5,ice,1.1,0.6,1.1,77,paladin
+271,uncommon holy lightning wand,0.5,lightning,1.25,0.75,1.1,152,paladin
+272,uncommon holy lightning staff,2.8,lightning,1.35,0.85,1.1,265,paladin
+273,uncommon holy lightning orb,1.0,lightning,1.15,0.65,1.1,116,paladin
+274,uncommon holy lightning grimoire,1.5,lightning,1.2,0.7,1.1,151,paladin
+275,uncommon holy lightning pendant,0.5,lightning,1.1,0.6,1.1,68,paladin
+276,uncommon holy healing wand,0.5,healing,1.25,0.75,1.1,155,paladin
+277,uncommon holy healing staff,2.8,healing,1.35,0.85,1.1,268,paladin
+278,uncommon holy healing orb,1.0,healing,1.15,0.65,1.1,106,paladin
+279,uncommon holy healing grimoire,1.5,healing,1.2,0.7,1.1,152,paladin
+280,uncommon holy healing pendant,0.5,healing,1.1,0.6,1.1,73,paladin
+281,uncommon cursed fire wand,0.5,fire,1.25,0.75,1.1,157,warlock
+282,uncommon cursed fire staff,2.8,fire,1.35,0.85,1.1,266,warlock
+283,uncommon cursed fire orb,1.0,fire,1.15,0.65,1.1,114,warlock
+284,uncommon cursed fire grimoire,1.5,fire,1.2,0.7,1.1,156,warlock
+285,uncommon cursed fire pendant,0.5,fire,1.1,0.6,1.1,75,warlock
+286,uncommon cursed water wand,0.5,water,1.25,0.75,1.1,161,warlock
+287,uncommon cursed water staff,2.8,water,1.35,0.85,1.1,265,warlock
+288,uncommon cursed water orb,1.0,water,1.15,0.65,1.1,109,warlock
+289,uncommon cursed water grimoire,1.5,water,1.2,0.7,1.1,153,warlock
+290,uncommon cursed water pendant,0.5,water,1.1,0.6,1.1,73,warlock
+291,uncommon cursed earth wand,0.5,earth,1.25,0.75,1.1,153,warlock
+292,uncommon cursed earth staff,2.8,earth,1.35,0.85,1.1,260,warlock
+293,uncommon cursed earth orb,1.0,earth,1.15,0.65,1.1,118,warlock
+294,uncommon cursed earth grimoire,1.5,earth,1.2,0.7,1.1,155,warlock
+295,uncommon cursed earth pendant,0.5,earth,1.1,0.6,1.1,69,warlock
+296,uncommon cursed ice wand,0.5,ice,1.25,0.75,1.1,160,warlock
+297,uncommon cursed ice staff,2.8,ice,1.35,0.85,1.1,257,warlock
+298,uncommon cursed ice orb,1.0,ice,1.15,0.65,1.1,111,warlock
+299,uncommon cursed ice grimoire,1.5,ice,1.2,0.7,1.1,145,warlock
+300,uncommon cursed ice pendant,0.5,ice,1.1,0.6,1.1,68,warlock
+301,uncommon cursed lightning wand,0.5,lightning,1.25,0.75,1.1,158,warlock
+302,uncommon cursed lightning staff,2.8,lightning,1.35,0.85,1.1,259,warlock
+303,uncommon cursed lightning orb,1.0,lightning,1.15,0.65,1.1,113,warlock
+304,uncommon cursed lightning grimoire,1.5,lightning,1.2,0.7,1.1,151,warlock
+305,uncommon cursed lightning pendant,0.5,lightning,1.1,0.6,1.1,71,warlock
+306,uncommon cursed healing wand,0.5,healing,1.25,0.75,1.1,151,warlock
+307,uncommon cursed healing staff,2.8,healing,1.35,0.85,1.1,266,warlock
+308,uncommon cursed healing orb,1.0,healing,1.15,0.65,1.1,115,warlock
+309,uncommon cursed healing grimoire,1.5,healing,1.2,0.7,1.1,148,warlock
+310,uncommon cursed healing pendant,0.5,healing,1.1,0.6,1.1,75,warlock
+311,rare swift dagger,1.0,slashing,1.2,0.7,1.15,138,rouge
+312,rare swift shortsword,1.5,slashing,1.3,0.8,1.15,200,rouge
+313,rare swift longsword,3.0,slashing,1.35,0.85,1.15,244,rouge
+314,rare swift rapier,2.0,piercing,1.2,0.7,1.15,148,rouge
+315,rare swift knife,0.5,piercing,1.1,0.6,1.15,73,rouge
+316,rare swift spear,2.5,piercing,1.3,0.8,1.15,212,rouge
+317,rare swift bow,1.8,piercing,1.25,0.75,1.15,172,rouge
+318,rare swift crossbow,3.5,piercing,1.35,0.85,1.15,255,rouge
+319,rare swift mace,3.2,blunt,1.2,0.7,1.15,164,rouge
+320,rare swift hammer,4.0,blunt,1.35,0.85,1.15,260,rouge
+321,rare swift flail,3.8,blunt,1.3,0.8,1.15,228,rouge
+322,rare swift axe,3.0,slashing,1.25,0.75,1.15,182,rouge
+323,rare swift shield,5.0,blunt,1.1,0.6,1.15,123,rouge
+324,rare gallant dagger,1.0,slashing,1.2,0.7,1.15,140,knight
+325,rare gallant shortsword,1.5,slashing,1.3,0.8,1.15,201,knight
+326,rare gallant longsword,3.0,slashing,1.35,0.85,1.15,236,knight
+327,rare gallant rapier,2.0,piercing,1.2,0.7,1.15,149,knight
+328,rare gallant knife,0.5,piercing,1.1,0.6,1.15,74,knight
+329,rare gallant spear,2.5,piercing,1.3,0.8,1.15,203,knight
+330,rare gallant bow,1.8,piercing,1.25,0.75,1.15,177,knight
+331,rare gallant crossbow,3.5,piercing,1.35,0.85,1.15,244,knight
+332,rare gallant mace,3.2,blunt,1.2,0.7,1.15,159,knight
+333,rare gallant hammer,4.0,blunt,1.35,0.85,1.15,254,knight
+334,rare gallant flail,3.8,blunt,1.3,0.8,1.15,222,knight
+335,rare gallant axe,3.0,slashing,1.25,0.75,1.15,184,knight
+336,rare gallant shield,5.0,blunt,1.1,0.6,1.15,115,knight
+337,rare blackstone dagger,1.0,slashing,1.2,0.7,1.15,138,dwarf
+338,rare blackstone shortsword,1.5,slashing,1.3,0.8,1.15,196,dwarf
+339,rare blackstone longsword,3.0,slashing,1.35,0.85,1.15,243,dwarf
+340,rare blackstone rapier,2.0,piercing,1.2,0.7,1.15,142,dwarf
+341,rare blackstone knife,0.5,piercing,1.1,0.6,1.15,74,dwarf
+342,rare blackstone spear,2.5,piercing,1.3,0.8,1.15,216,dwarf
+343,rare blackstone bow,1.8,piercing,1.25,0.75,1.15,176,dwarf
+344,rare blackstone crossbow,3.5,piercing,1.35,0.85,1.15,243,dwarf
+345,rare blackstone mace,3.2,blunt,1.2,0.7,1.15,156,dwarf
+346,rare blackstone hammer,4.0,blunt,1.35,0.85,1.15,256,dwarf
+347,rare blackstone flail,3.8,blunt,1.3,0.8,1.15,217,dwarf
+348,rare blackstone axe,3.0,slashing,1.25,0.75,1.15,183,dwarf
+349,rare blackstone shield,5.0,blunt,1.1,0.6,1.15,120,dwarf
+350,rare cursed dagger,1.0,slashing,1.2,0.7,1.15,141,warlock
+351,rare cursed shortsword,1.5,slashing,1.3,0.8,1.15,195,warlock
+352,rare cursed longsword,3.0,slashing,1.35,0.85,1.15,244,warlock
+353,rare cursed rapier,2.0,piercing,1.2,0.7,1.15,150,warlock
+354,rare cursed knife,0.5,piercing,1.1,0.6,1.15,64,warlock
+355,rare cursed spear,2.5,piercing,1.3,0.8,1.15,205,warlock
+356,rare cursed bow,1.8,piercing,1.25,0.75,1.15,174,warlock
+357,rare cursed crossbow,3.5,piercing,1.35,0.85,1.15,248,warlock
+358,rare cursed mace,3.2,blunt,1.2,0.7,1.15,158,warlock
+359,rare cursed hammer,4.0,blunt,1.35,0.85,1.15,258,warlock
+360,rare cursed flail,3.8,blunt,1.3,0.8,1.15,221,warlock
+361,rare cursed axe,3.0,slashing,1.25,0.75,1.15,193,warlock
+362,rare cursed shield,5.0,blunt,1.1,0.6,1.15,119,warlock
+363,rare holy dagger,1.0,slashing,1.2,0.7,1.15,139,paladin
+364,rare holy shortsword,1.5,slashing,1.3,0.8,1.15,192,paladin
+365,rare holy longsword,3.0,slashing,1.35,0.85,1.15,244,paladin
+366,rare holy rapier,2.0,piercing,1.2,0.7,1.15,147,paladin
+367,rare holy knife,0.5,piercing,1.1,0.6,1.15,75,paladin
+368,rare holy spear,2.5,piercing,1.3,0.8,1.15,204,paladin
+369,rare holy bow,1.8,piercing,1.25,0.75,1.15,176,paladin
+370,rare holy crossbow,3.5,piercing,1.35,0.85,1.15,254,paladin
+371,rare holy mace,3.2,blunt,1.2,0.7,1.15,160,paladin
+372,rare holy hammer,4.0,blunt,1.35,0.85,1.15,259,paladin
+373,rare holy flail,3.8,blunt,1.3,0.8,1.15,223,paladin
+374,rare holy axe,3.0,slashing,1.25,0.75,1.15,180,paladin
+375,rare holy shield,5.0,blunt,1.1,0.6,1.15,122,paladin
+376,rare arcane fire wand,0.5,fire,1.25,0.75,1.15,161,mage
+377,rare arcane fire staff,2.8,fire,1.35,0.85,1.15,273,mage
+378,rare arcane fire orb,1.0,fire,1.15,0.65,1.15,112,mage
+379,rare arcane fire grimoire,1.5,fire,1.2,0.7,1.15,161,mage
+380,rare arcane fire pendant,0.5,fire,1.1,0.6,1.15,84,mage
+381,rare arcane water wand,0.5,water,1.25,0.75,1.15,158,mage
+382,rare arcane water staff,2.8,water,1.35,0.85,1.15,274,mage
+383,rare arcane water orb,1.0,water,1.15,0.65,1.15,112,mage
+384,rare arcane water grimoire,1.5,water,1.2,0.7,1.15,158,mage
+385,rare arcane water pendant,0.5,water,1.1,0.6,1.15,81,mage
+386,rare arcane earth wand,0.5,earth,1.25,0.75,1.15,167,mage
+387,rare arcane earth staff,2.8,earth,1.35,0.85,1.15,272,mage
+388,rare arcane earth orb,1.0,earth,1.15,0.65,1.15,114,mage
+389,rare arcane earth grimoire,1.5,earth,1.2,0.7,1.15,158,mage
+390,rare arcane earth pendant,0.5,earth,1.1,0.6,1.15,71,mage
+391,rare arcane ice wand,0.5,ice,1.25,0.75,1.15,170,mage
+392,rare arcane ice staff,2.8,ice,1.35,0.85,1.15,276,mage
+393,rare arcane ice orb,1.0,ice,1.15,0.65,1.15,120,mage
+394,rare arcane ice grimoire,1.5,ice,1.2,0.7,1.15,154,mage
+395,rare arcane ice pendant,0.5,ice,1.1,0.6,1.15,80,mage
+396,rare arcane lightning wand,0.5,lightning,1.25,0.75,1.15,158,mage
+397,rare arcane lightning staff,2.8,lightning,1.35,0.85,1.15,272,mage
+398,rare arcane lightning orb,1.0,lightning,1.15,0.65,1.15,118,mage
+399,rare arcane lightning grimoire,1.5,lightning,1.2,0.7,1.15,151,mage
+400,rare arcane lightning pendant,0.5,lightning,1.1,0.6,1.15,76,mage
+401,rare arcane healing wand,0.5,healing,1.25,0.75,1.15,168,mage
+402,rare arcane healing staff,2.8,healing,1.35,0.85,1.15,280,mage
+403,rare arcane healing orb,1.0,healing,1.15,0.65,1.15,120,mage
+404,rare arcane healing grimoire,1.5,healing,1.2,0.7,1.15,157,mage
+405,rare arcane healing pendant,0.5,healing,1.1,0.6,1.15,80,mage
+406,rare holy fire wand,0.5,fire,1.25,0.75,1.15,170,paladin
+407,rare holy fire staff,2.8,fire,1.35,0.85,1.15,274,paladin
+408,rare holy fire orb,1.0,fire,1.15,0.65,1.15,122,paladin
+409,rare holy fire grimoire,1.5,fire,1.2,0.7,1.15,150,paladin
+410,rare holy fire pendant,0.5,fire,1.1,0.6,1.15,80,paladin
+411,rare holy water wand,0.5,water,1.25,0.75,1.15,158,paladin
+412,rare holy water staff,2.8,water,1.35,0.85,1.15,275,paladin
+413,rare holy water orb,1.0,water,1.15,0.65,1.15,120,paladin
+414,rare holy water grimoire,1.5,water,1.2,0.7,1.15,152,paladin
+415,rare holy water pendant,0.5,water,1.1,0.6,1.15,78,paladin
+416,rare holy earth wand,0.5,earth,1.25,0.75,1.15,169,paladin
+417,rare holy earth staff,2.8,earth,1.35,0.85,1.15,271,paladin
+418,rare holy earth orb,1.0,earth,1.15,0.65,1.15,112,paladin
+419,rare holy earth grimoire,1.5,earth,1.2,0.7,1.15,153,paladin
+420,rare holy earth pendant,0.5,earth,1.1,0.6,1.15,83,paladin
+421,rare holy ice wand,0.5,ice,1.25,0.75,1.15,161,paladin
+422,rare holy ice staff,2.8,ice,1.35,0.85,1.15,269,paladin
+423,rare holy ice orb,1.0,ice,1.15,0.65,1.15,124,paladin
+424,rare holy ice grimoire,1.5,ice,1.2,0.7,1.15,152,paladin
+425,rare holy ice pendant,0.5,ice,1.1,0.6,1.15,83,paladin
+426,rare holy lightning wand,0.5,lightning,1.25,0.75,1.15,164,paladin
+427,rare holy lightning staff,2.8,lightning,1.35,0.85,1.15,278,paladin
+428,rare holy lightning orb,1.0,lightning,1.15,0.65,1.15,121,paladin
+429,rare holy lightning grimoire,1.5,lightning,1.2,0.7,1.15,157,paladin
+430,rare holy lightning pendant,0.5,lightning,1.1,0.6,1.15,78,paladin
+431,rare holy healing wand,0.5,healing,1.25,0.75,1.15,168,paladin
+432,rare holy healing staff,2.8,healing,1.35,0.85,1.15,274,paladin
+433,rare holy healing orb,1.0,healing,1.15,0.65,1.15,121,paladin
+434,rare holy healing grimoire,1.5,healing,1.2,0.7,1.15,162,paladin
+435,rare holy healing pendant,0.5,healing,1.1,0.6,1.15,80,paladin
+436,rare cursed fire wand,0.5,fire,1.25,0.75,1.15,163,warlock
+437,rare cursed fire staff,2.8,fire,1.35,0.85,1.15,277,warlock
+438,rare cursed fire orb,1.0,fire,1.15,0.65,1.15,119,warlock
+439,rare cursed fire grimoire,1.5,fire,1.2,0.7,1.15,151,warlock
+440,rare cursed fire pendant,0.5,fire,1.1,0.6,1.15,82,warlock
+441,rare cursed water wand,0.5,water,1.25,0.75,1.15,169,warlock
+442,rare cursed water staff,2.8,water,1.35,0.85,1.15,267,warlock
+443,rare cursed water orb,1.0,water,1.15,0.65,1.15,124,warlock
+444,rare cursed water grimoire,1.5,water,1.2,0.7,1.15,160,warlock
+445,rare cursed water pendant,0.5,water,1.1,0.6,1.15,72,warlock
+446,rare cursed earth wand,0.5,earth,1.25,0.75,1.15,170,warlock
+447,rare cursed earth staff,2.8,earth,1.35,0.85,1.15,266,warlock
+448,rare cursed earth orb,1.0,earth,1.15,0.65,1.15,111,warlock
+449,rare cursed earth grimoire,1.5,earth,1.2,0.7,1.15,155,warlock
+450,rare cursed earth pendant,0.5,earth,1.1,0.6,1.15,84,warlock
+451,rare cursed ice wand,0.5,ice,1.25,0.75,1.15,165,warlock
+452,rare cursed ice staff,2.8,ice,1.35,0.85,1.15,273,warlock
+453,rare cursed ice orb,1.0,ice,1.15,0.65,1.15,116,warlock
+454,rare cursed ice grimoire,1.5,ice,1.2,0.7,1.15,159,warlock
+455,rare cursed ice pendant,0.5,ice,1.1,0.6,1.15,82,warlock
+456,rare cursed lightning wand,0.5,lightning,1.25,0.75,1.15,162,warlock
+457,rare cursed lightning staff,2.8,lightning,1.35,0.85,1.15,277,warlock
+458,rare cursed lightning orb,1.0,lightning,1.15,0.65,1.15,113,warlock
+459,rare cursed lightning grimoire,1.5,lightning,1.2,0.7,1.15,158,warlock
+460,rare cursed lightning pendant,0.5,lightning,1.1,0.6,1.15,75,warlock
+461,rare cursed healing wand,0.5,healing,1.25,0.75,1.15,166,warlock
+462,rare cursed healing staff,2.8,healing,1.35,0.85,1.15,276,warlock
+463,rare cursed healing orb,1.0,healing,1.15,0.65,1.15,111,warlock
+464,rare cursed healing grimoire,1.5,healing,1.2,0.7,1.15,152,warlock
+465,rare cursed healing pendant,0.5,healing,1.1,0.6,1.15,77,warlock
+466,epic swift dagger,1.0,slashing,1.2,0.7,1.2,143,rouge
+467,epic swift shortsword,1.5,slashing,1.3,0.8,1.2,203,rouge
+468,epic swift longsword,3.0,slashing,1.35,0.85,1.2,261,rouge
+469,epic swift rapier,2.0,piercing,1.2,0.7,1.2,155,rouge
+470,epic swift knife,0.5,piercing,1.1,0.6,1.2,74,rouge
+471,epic swift spear,2.5,piercing,1.3,0.8,1.2,212,rouge
+472,epic swift bow,1.8,piercing,1.25,0.75,1.2,181,rouge
+473,epic swift crossbow,3.5,piercing,1.35,0.85,1.2,264,rouge
+474,epic swift mace,3.2,blunt,1.2,0.7,1.2,162,rouge
+475,epic swift hammer,4.0,blunt,1.35,0.85,1.2,273,rouge
+476,epic swift flail,3.8,blunt,1.3,0.8,1.2,228,rouge
+477,epic swift axe,3.0,slashing,1.25,0.75,1.2,193,rouge
+478,epic swift shield,5.0,blunt,1.1,0.6,1.2,128,rouge
+479,epic gallant dagger,1.0,slashing,1.2,0.7,1.2,146,knight
+480,epic gallant shortsword,1.5,slashing,1.3,0.8,1.2,208,knight
+481,epic gallant longsword,3.0,slashing,1.35,0.85,1.2,261,knight
+482,epic gallant rapier,2.0,piercing,1.2,0.7,1.2,151,knight
+483,epic gallant knife,0.5,piercing,1.1,0.6,1.2,71,knight
+484,epic gallant spear,2.5,piercing,1.3,0.8,1.2,215,knight
+485,epic gallant bow,1.8,piercing,1.25,0.75,1.2,174,knight
+486,epic gallant crossbow,3.5,piercing,1.35,0.85,1.2,259,knight
+487,epic gallant mace,3.2,blunt,1.2,0.7,1.2,167,knight
+488,epic gallant hammer,4.0,blunt,1.35,0.85,1.2,272,knight
+489,epic gallant flail,3.8,blunt,1.3,0.8,1.2,240,knight
+490,epic gallant axe,3.0,slashing,1.25,0.75,1.2,190,knight
+491,epic gallant shield,5.0,blunt,1.1,0.6,1.2,121,knight
+492,epic blackstone dagger,1.0,slashing,1.2,0.7,1.2,147,dwarf
+493,epic blackstone shortsword,1.5,slashing,1.3,0.8,1.2,202,dwarf
+494,epic blackstone longsword,3.0,slashing,1.35,0.85,1.2,260,dwarf
+495,epic blackstone rapier,2.0,piercing,1.2,0.7,1.2,149,dwarf
+496,epic blackstone knife,0.5,piercing,1.1,0.6,1.2,70,dwarf
+497,epic blackstone spear,2.5,piercing,1.3,0.8,1.2,213,dwarf
+498,epic blackstone bow,1.8,piercing,1.25,0.75,1.2,173,dwarf
+499,epic blackstone crossbow,3.5,piercing,1.35,0.85,1.2,267,dwarf
+500,epic blackstone mace,3.2,blunt,1.2,0.7,1.2,168,dwarf
+501,epic blackstone hammer,4.0,blunt,1.35,0.85,1.2,271,dwarf
+502,epic blackstone flail,3.8,blunt,1.3,0.8,1.2,231,dwarf
+503,epic blackstone axe,3.0,slashing,1.25,0.75,1.2,190,dwarf
+504,epic blackstone shield,5.0,blunt,1.1,0.6,1.2,130,dwarf
+505,epic cursed dagger,1.0,slashing,1.2,0.7,1.2,133,warlock
+506,epic cursed shortsword,1.5,slashing,1.3,0.8,1.2,209,warlock
+507,epic cursed longsword,3.0,slashing,1.35,0.85,1.2,251,warlock
+508,epic cursed rapier,2.0,piercing,1.2,0.7,1.2,153,warlock
+509,epic cursed knife,0.5,piercing,1.1,0.6,1.2,67,warlock
+510,epic cursed spear,2.5,piercing,1.3,0.8,1.2,216,warlock
+511,epic cursed bow,1.8,piercing,1.25,0.75,1.2,172,warlock
+512,epic cursed crossbow,3.5,piercing,1.35,0.85,1.2,260,warlock
+513,epic cursed mace,3.2,blunt,1.2,0.7,1.2,162,warlock
+514,epic cursed hammer,4.0,blunt,1.35,0.85,1.2,272,warlock
+515,epic cursed flail,3.8,blunt,1.3,0.8,1.2,234,warlock
+516,epic cursed axe,3.0,slashing,1.25,0.75,1.2,187,warlock
+517,epic cursed shield,5.0,blunt,1.1,0.6,1.2,130,warlock
+518,epic holy dagger,1.0,slashing,1.2,0.7,1.2,147,paladin
+519,epic holy shortsword,1.5,slashing,1.3,0.8,1.2,204,paladin
+520,epic holy longsword,3.0,slashing,1.35,0.85,1.2,257,paladin
+521,epic holy rapier,2.0,piercing,1.2,0.7,1.2,148,paladin
+522,epic holy knife,0.5,piercing,1.1,0.6,1.2,72,paladin
+523,epic holy spear,2.5,piercing,1.3,0.8,1.2,219,paladin
+524,epic holy bow,1.8,piercing,1.25,0.75,1.2,176,paladin
+525,epic holy crossbow,3.5,piercing,1.35,0.85,1.2,262,paladin
+526,epic holy mace,3.2,blunt,1.2,0.7,1.2,170,paladin
+527,epic holy hammer,4.0,blunt,1.35,0.85,1.2,265,paladin
+528,epic holy flail,3.8,blunt,1.3,0.8,1.2,229,paladin
+529,epic holy axe,3.0,slashing,1.25,0.75,1.2,194,paladin
+530,epic holy shield,5.0,blunt,1.1,0.6,1.2,131,paladin
+531,epic arcane fire wand,0.5,fire,1.25,0.75,1.2,172,mage
+532,epic arcane fire staff,2.8,fire,1.35,0.85,1.2,287,mage
+533,epic arcane fire orb,1.0,fire,1.15,0.65,1.2,117,mage
+534,epic arcane fire grimoire,1.5,fire,1.2,0.7,1.2,158,mage
+535,epic arcane fire pendant,0.5,fire,1.1,0.6,1.2,81,mage
+536,epic arcane water wand,0.5,water,1.25,0.75,1.2,176,mage
+537,epic arcane water staff,2.8,water,1.35,0.85,1.2,284,mage
+538,epic arcane water orb,1.0,water,1.15,0.65,1.2,127,mage
+539,epic arcane water grimoire,1.5,water,1.2,0.7,1.2,163,mage
+540,epic arcane water pendant,0.5,water,1.1,0.6,1.2,79,mage
+541,epic arcane earth wand,0.5,earth,1.25,0.75,1.2,168,mage
+542,epic arcane earth staff,2.8,earth,1.35,0.85,1.2,288,mage
+543,epic arcane earth orb,1.0,earth,1.15,0.65,1.2,126,mage
+544,epic arcane earth grimoire,1.5,earth,1.2,0.7,1.2,171,mage
+545,epic arcane earth pendant,0.5,earth,1.1,0.6,1.2,75,mage
+546,epic arcane ice wand,0.5,ice,1.25,0.75,1.2,175,mage
+547,epic arcane ice staff,2.8,ice,1.35,0.85,1.2,290,mage
+548,epic arcane ice orb,1.0,ice,1.15,0.65,1.2,127,mage
+549,epic arcane ice grimoire,1.5,ice,1.2,0.7,1.2,169,mage
+550,epic arcane ice pendant,0.5,ice,1.1,0.6,1.2,74,mage
+551,epic arcane lightning wand,0.5,lightning,1.25,0.75,1.2,165,mage
+552,epic arcane lightning staff,2.8,lightning,1.35,0.85,1.2,281,mage
+553,epic arcane lightning orb,1.0,lightning,1.15,0.65,1.2,115,mage
+554,epic arcane lightning grimoire,1.5,lightning,1.2,0.7,1.2,159,mage
+555,epic arcane lightning pendant,0.5,lightning,1.1,0.6,1.2,74,mage
+556,epic arcane healing wand,0.5,healing,1.25,0.75,1.2,177,mage
+557,epic arcane healing staff,2.8,healing,1.35,0.85,1.2,281,mage
+558,epic arcane healing orb,1.0,healing,1.15,0.65,1.2,121,mage
+559,epic arcane healing grimoire,1.5,healing,1.2,0.7,1.2,168,mage
+560,epic arcane healing pendant,0.5,healing,1.1,0.6,1.2,84,mage
+561,epic holy fire wand,0.5,fire,1.25,0.75,1.2,167,paladin
+562,epic holy fire staff,2.8,fire,1.35,0.85,1.2,291,paladin
+563,epic holy fire orb,1.0,fire,1.15,0.65,1.2,119,paladin
+564,epic holy fire grimoire,1.5,fire,1.2,0.7,1.2,169,paladin
+565,epic holy fire pendant,0.5,fire,1.1,0.6,1.2,87,paladin
+566,epic holy water wand,0.5,water,1.25,0.75,1.2,167,paladin
+567,epic holy water staff,2.8,water,1.35,0.85,1.2,283,paladin
+568,epic holy water orb,1.0,water,1.15,0.65,1.2,121,paladin
+569,epic holy water grimoire,1.5,water,1.2,0.7,1.2,170,paladin
+570,epic holy water pendant,0.5,water,1.1,0.6,1.2,74,paladin
+571,epic holy earth wand,0.5,earth,1.25,0.75,1.2,165,paladin
+572,epic holy earth staff,2.8,earth,1.35,0.85,1.2,285,paladin
+573,epic holy earth orb,1.0,earth,1.15,0.65,1.2,129,paladin
+574,epic holy earth grimoire,1.5,earth,1.2,0.7,1.2,158,paladin
+575,epic holy earth pendant,0.5,earth,1.1,0.6,1.2,73,paladin
+576,epic holy ice wand,0.5,ice,1.25,0.75,1.2,173,paladin
+577,epic holy ice staff,2.8,ice,1.35,0.85,1.2,292,paladin
+578,epic holy ice orb,1.0,ice,1.15,0.65,1.2,128,paladin
+579,epic holy ice grimoire,1.5,ice,1.2,0.7,1.2,163,paladin
+580,epic holy ice pendant,0.5,ice,1.1,0.6,1.2,78,paladin
+581,epic holy lightning wand,0.5,lightning,1.25,0.75,1.2,173,paladin
+582,epic holy lightning staff,2.8,lightning,1.35,0.85,1.2,278,paladin
+583,epic holy lightning orb,1.0,lightning,1.15,0.65,1.2,127,paladin
+584,epic holy lightning grimoire,1.5,lightning,1.2,0.7,1.2,161,paladin
+585,epic holy lightning pendant,0.5,lightning,1.1,0.6,1.2,82,paladin
+586,epic holy healing wand,0.5,healing,1.25,0.75,1.2,177,paladin
+587,epic holy healing staff,2.8,healing,1.35,0.85,1.2,291,paladin
+588,epic holy healing orb,1.0,healing,1.15,0.65,1.2,127,paladin
+589,epic holy healing grimoire,1.5,healing,1.2,0.7,1.2,164,paladin
+590,epic holy healing pendant,0.5,healing,1.1,0.6,1.2,74,paladin
+591,epic cursed fire wand,0.5,fire,1.25,0.75,1.2,176,warlock
+592,epic cursed fire staff,2.8,fire,1.35,0.85,1.2,284,warlock
+593,epic cursed fire orb,1.0,fire,1.15,0.65,1.2,121,warlock
+594,epic cursed fire grimoire,1.5,fire,1.2,0.7,1.2,165,warlock
+595,epic cursed fire pendant,0.5,fire,1.1,0.6,1.2,76,warlock
+596,epic cursed water wand,0.5,water,1.25,0.75,1.2,170,warlock
+597,epic cursed water staff,2.8,water,1.35,0.85,1.2,282,warlock
+598,epic cursed water orb,1.0,water,1.15,0.65,1.2,121,warlock
+599,epic cursed water grimoire,1.5,water,1.2,0.7,1.2,168,warlock
+600,epic cursed water pendant,0.5,water,1.1,0.6,1.2,87,warlock
+601,epic cursed earth wand,0.5,earth,1.25,0.75,1.2,169,warlock
+602,epic cursed earth staff,2.8,earth,1.35,0.85,1.2,287,warlock
+603,epic cursed earth orb,1.0,earth,1.15,0.65,1.2,124,warlock
+604,epic cursed earth grimoire,1.5,earth,1.2,0.7,1.2,171,warlock
+605,epic cursed earth pendant,0.5,earth,1.1,0.6,1.2,84,warlock
+606,epic cursed ice wand,0.5,ice,1.25,0.75,1.2,171,warlock
+607,epic cursed ice staff,2.8,ice,1.35,0.85,1.2,286,warlock
+608,epic cursed ice orb,1.0,ice,1.15,0.65,1.2,121,warlock
+609,epic cursed ice grimoire,1.5,ice,1.2,0.7,1.2,157,warlock
+610,epic cursed ice pendant,0.5,ice,1.1,0.6,1.2,86,warlock
+611,epic cursed lightning wand,0.5,lightning,1.25,0.75,1.2,174,warlock
+612,epic cursed lightning staff,2.8,lightning,1.35,0.85,1.2,289,warlock
+613,epic cursed lightning orb,1.0,lightning,1.15,0.65,1.2,119,warlock
+614,epic cursed lightning grimoire,1.5,lightning,1.2,0.7,1.2,157,warlock
+615,epic cursed lightning pendant,0.5,lightning,1.1,0.6,1.2,86,warlock
+616,epic cursed healing wand,0.5,healing,1.25,0.75,1.2,172,warlock
+617,epic cursed healing staff,2.8,healing,1.35,0.85,1.2,290,warlock
+618,epic cursed healing orb,1.0,healing,1.15,0.65,1.2,123,warlock
+619,epic cursed healing grimoire,1.5,healing,1.2,0.7,1.2,167,warlock
+620,epic cursed healing pendant,0.5,healing,1.1,0.6,1.2,73,warlock
+621,legendary swift dagger,1.0,slashing,1.2,0.7,1.25,150,rouge
+622,legendary swift shortsword,1.5,slashing,1.3,0.8,1.25,208,rouge
+623,legendary swift longsword,3.0,slashing,1.35,0.85,1.25,268,rouge
+624,legendary swift rapier,2.0,piercing,1.2,0.7,1.25,164,rouge
+625,legendary swift knife,0.5,piercing,1.1,0.6,1.25,70,rouge
+626,legendary swift spear,2.5,piercing,1.3,0.8,1.25,228,rouge
+627,legendary swift bow,1.8,piercing,1.25,0.75,1.25,181,rouge
+628,legendary swift crossbow,3.5,piercing,1.35,0.85,1.25,277,rouge
+629,legendary swift mace,3.2,blunt,1.2,0.7,1.25,175,rouge
+630,legendary swift hammer,4.0,blunt,1.35,0.85,1.25,274,rouge
+631,legendary swift flail,3.8,blunt,1.3,0.8,1.25,238,rouge
+632,legendary swift axe,3.0,slashing,1.25,0.75,1.25,204,rouge
+633,legendary swift shield,5.0,blunt,1.1,0.6,1.25,130,rouge
+634,legendary gallant dagger,1.0,slashing,1.2,0.7,1.25,148,knight
+635,legendary gallant shortsword,1.5,slashing,1.3,0.8,1.25,215,knight
+636,legendary gallant longsword,3.0,slashing,1.35,0.85,1.25,270,knight
+637,legendary gallant rapier,2.0,piercing,1.2,0.7,1.25,157,knight
+638,legendary gallant knife,0.5,piercing,1.1,0.6,1.25,69,knight
+639,legendary gallant spear,2.5,piercing,1.3,0.8,1.25,222,knight
+640,legendary gallant bow,1.8,piercing,1.25,0.75,1.25,191,knight
+641,legendary gallant crossbow,3.5,piercing,1.35,0.85,1.25,271,knight
+642,legendary gallant mace,3.2,blunt,1.2,0.7,1.25,176,knight
+643,legendary gallant hammer,4.0,blunt,1.35,0.85,1.25,277,knight
+644,legendary gallant flail,3.8,blunt,1.3,0.8,1.25,250,knight
+645,legendary gallant axe,3.0,slashing,1.25,0.75,1.25,206,knight
+646,legendary gallant shield,5.0,blunt,1.1,0.6,1.25,126,knight
+647,legendary blackstone dagger,1.0,slashing,1.2,0.7,1.25,150,dwarf
+648,legendary blackstone shortsword,1.5,slashing,1.3,0.8,1.25,214,dwarf
+649,legendary blackstone longsword,3.0,slashing,1.35,0.85,1.25,265,dwarf
+650,legendary blackstone rapier,2.0,piercing,1.2,0.7,1.25,151,dwarf
+651,legendary blackstone knife,0.5,piercing,1.1,0.6,1.25,83,dwarf
+652,legendary blackstone spear,2.5,piercing,1.3,0.8,1.25,228,dwarf
+653,legendary blackstone bow,1.8,piercing,1.25,0.75,1.25,182,dwarf
+654,legendary blackstone crossbow,3.5,piercing,1.35,0.85,1.25,269,dwarf
+655,legendary blackstone mace,3.2,blunt,1.2,0.7,1.25,176,dwarf
+656,legendary blackstone hammer,4.0,blunt,1.35,0.85,1.25,275,dwarf
+657,legendary blackstone flail,3.8,blunt,1.3,0.8,1.25,240,dwarf
+658,legendary blackstone axe,3.0,slashing,1.25,0.75,1.25,201,dwarf
+659,legendary blackstone shield,5.0,blunt,1.1,0.6,1.25,140,dwarf
+660,legendary cursed dagger,1.0,slashing,1.2,0.7,1.25,150,warlock
+661,legendary cursed shortsword,1.5,slashing,1.3,0.8,1.25,211,warlock
+662,legendary cursed longsword,3.0,slashing,1.35,0.85,1.25,259,warlock
+663,legendary cursed rapier,2.0,piercing,1.2,0.7,1.25,154,warlock
+664,legendary cursed knife,0.5,piercing,1.1,0.6,1.25,77,warlock
+665,legendary cursed spear,2.5,piercing,1.3,0.8,1.25,232,warlock
+666,legendary cursed bow,1.8,piercing,1.25,0.75,1.25,182,warlock
+667,legendary cursed crossbow,3.5,piercing,1.35,0.85,1.25,274,warlock
+668,legendary cursed mace,3.2,blunt,1.2,0.7,1.25,175,warlock
+669,legendary cursed hammer,4.0,blunt,1.35,0.85,1.25,272,warlock
+670,legendary cursed flail,3.8,blunt,1.3,0.8,1.25,245,warlock
+671,legendary cursed axe,3.0,slashing,1.25,0.75,1.25,199,warlock
+672,legendary cursed shield,5.0,blunt,1.1,0.6,1.25,133,warlock
+673,legendary holy dagger,1.0,slashing,1.2,0.7,1.25,147,paladin
+674,legendary holy shortsword,1.5,slashing,1.3,0.8,1.25,220,paladin
+675,legendary holy longsword,3.0,slashing,1.35,0.85,1.25,259,paladin
+676,legendary holy rapier,2.0,piercing,1.2,0.7,1.25,157,paladin
+677,legendary holy knife,0.5,piercing,1.1,0.6,1.25,81,paladin
+678,legendary holy spear,2.5,piercing,1.3,0.8,1.25,226,paladin
+679,legendary holy bow,1.8,piercing,1.25,0.75,1.25,192,paladin
+680,legendary holy crossbow,3.5,piercing,1.35,0.85,1.25,265,paladin
+681,legendary holy mace,3.2,blunt,1.2,0.7,1.25,171,paladin
+682,legendary holy hammer,4.0,blunt,1.35,0.85,1.25,283,paladin
+683,legendary holy flail,3.8,blunt,1.3,0.8,1.25,236,paladin
+684,legendary holy axe,3.0,slashing,1.25,0.75,1.25,194,paladin
+685,legendary holy shield,5.0,blunt,1.1,0.6,1.25,137,paladin
+686,legendary arcane fire wand,0.5,fire,1.25,0.75,1.25,174,mage
+687,legendary arcane fire staff,2.8,fire,1.35,0.85,1.25,296,mage
+688,legendary arcane fire orb,1.0,fire,1.15,0.65,1.25,127,mage
+689,legendary arcane fire grimoire,1.5,fire,1.2,0.7,1.25,172,mage
+690,legendary arcane fire pendant,0.5,fire,1.1,0.6,1.25,86,mage
+691,legendary arcane water wand,0.5,water,1.25,0.75,1.25,177,mage
+692,legendary arcane water staff,2.8,water,1.35,0.85,1.25,293,mage
+693,legendary arcane water orb,1.0,water,1.15,0.65,1.25,132,mage
+694,legendary arcane water grimoire,1.5,water,1.2,0.7,1.25,176,mage
+695,legendary arcane water pendant,0.5,water,1.1,0.6,1.25,85,mage
+696,legendary arcane earth wand,0.5,earth,1.25,0.75,1.25,181,mage
+697,legendary arcane earth staff,2.8,earth,1.35,0.85,1.25,300,mage
+698,legendary arcane earth orb,1.0,earth,1.15,0.65,1.25,122,mage
+699,legendary arcane earth grimoire,1.5,earth,1.2,0.7,1.25,164,mage
+700,legendary arcane earth pendant,0.5,earth,1.1,0.6,1.25,83,mage
+701,legendary arcane ice wand,0.5,ice,1.25,0.75,1.25,179,mage
+702,legendary arcane ice staff,2.8,ice,1.35,0.85,1.25,300,mage
+703,legendary arcane ice orb,1.0,ice,1.15,0.65,1.25,131,mage
+704,legendary arcane ice grimoire,1.5,ice,1.2,0.7,1.25,170,mage
+705,legendary arcane ice pendant,0.5,ice,1.1,0.6,1.25,90,mage
+706,legendary arcane lightning wand,0.5,lightning,1.25,0.75,1.25,175,mage
+707,legendary arcane lightning staff,2.8,lightning,1.35,0.85,1.25,295,mage
+708,legendary arcane lightning orb,1.0,lightning,1.15,0.65,1.25,126,mage
+709,legendary arcane lightning grimoire,1.5,lightning,1.2,0.7,1.25,169,mage
+710,legendary arcane lightning pendant,0.5,lightning,1.1,0.6,1.25,78,mage
+711,legendary arcane healing wand,0.5,healing,1.25,0.75,1.25,181,mage
+712,legendary arcane healing staff,2.8,healing,1.35,0.85,1.25,300,mage
+713,legendary arcane healing orb,1.0,healing,1.15,0.65,1.25,123,mage
+714,legendary arcane healing grimoire,1.5,healing,1.2,0.7,1.25,171,mage
+715,legendary arcane healing pendant,0.5,healing,1.1,0.6,1.25,90,mage
+716,legendary holy fire wand,0.5,fire,1.25,0.75,1.25,180,paladin
+717,legendary holy fire staff,2.8,fire,1.35,0.85,1.25,293,paladin
+718,legendary holy fire orb,1.0,fire,1.15,0.65,1.25,125,paladin
+719,legendary holy fire grimoire,1.5,fire,1.2,0.7,1.25,164,paladin
+720,legendary holy fire pendant,0.5,fire,1.1,0.6,1.25,85,paladin
+721,legendary holy water wand,0.5,water,1.25,0.75,1.25,170,paladin
+722,legendary holy water staff,2.8,water,1.35,0.85,1.25,301,paladin
+723,legendary holy water orb,1.0,water,1.15,0.65,1.25,125,paladin
+724,legendary holy water grimoire,1.5,water,1.2,0.7,1.25,163,paladin
+725,legendary holy water pendant,0.5,water,1.1,0.6,1.25,88,paladin
+726,legendary holy earth wand,0.5,earth,1.25,0.75,1.25,170,paladin
+727,legendary holy earth staff,2.8,earth,1.35,0.85,1.25,297,paladin
+728,legendary holy earth orb,1.0,earth,1.15,0.65,1.25,130,paladin
+729,legendary holy earth grimoire,1.5,earth,1.2,0.7,1.25,163,paladin
+730,legendary holy earth pendant,0.5,earth,1.1,0.6,1.25,80,paladin
+731,legendary holy ice wand,0.5,ice,1.25,0.75,1.25,182,paladin
+732,legendary holy ice staff,2.8,ice,1.35,0.85,1.25,291,paladin
+733,legendary holy ice orb,1.0,ice,1.15,0.65,1.25,124,paladin
+734,legendary holy ice grimoire,1.5,ice,1.2,0.7,1.25,170,paladin
+735,legendary holy ice pendant,0.5,ice,1.1,0.6,1.25,78,paladin
+736,legendary holy lightning wand,0.5,lightning,1.25,0.75,1.25,183,paladin
+737,legendary holy lightning staff,2.8,lightning,1.35,0.85,1.25,299,paladin
+738,legendary holy lightning orb,1.0,lightning,1.15,0.65,1.25,119,paladin
+739,legendary holy lightning grimoire,1.5,lightning,1.2,0.7,1.25,177,paladin
+740,legendary holy lightning pendant,0.5,lightning,1.1,0.6,1.25,90,paladin
+741,legendary holy healing wand,0.5,healing,1.25,0.75,1.25,179,paladin
+742,legendary holy healing staff,2.8,healing,1.35,0.85,1.25,294,paladin
+743,legendary holy healing orb,1.0,healing,1.15,0.65,1.25,124,paladin
+744,legendary holy healing grimoire,1.5,healing,1.2,0.7,1.25,170,paladin
+745,legendary holy healing pendant,0.5,healing,1.1,0.6,1.25,77,paladin
+746,legendary cursed fire wand,0.5,fire,1.25,0.75,1.25,172,warlock
+747,legendary cursed fire staff,2.8,fire,1.35,0.85,1.25,293,warlock
+748,legendary cursed fire orb,1.0,fire,1.15,0.65,1.25,133,warlock
+749,legendary cursed fire grimoire,1.5,fire,1.2,0.7,1.25,168,warlock
+750,legendary cursed fire pendant,0.5,fire,1.1,0.6,1.25,85,warlock
+751,legendary cursed water wand,0.5,water,1.25,0.75,1.25,182,warlock
+752,legendary cursed water staff,2.8,water,1.35,0.85,1.25,289,warlock
+753,legendary cursed water orb,1.0,water,1.15,0.65,1.25,128,warlock
+754,legendary cursed water grimoire,1.5,water,1.2,0.7,1.25,166,warlock
+755,legendary cursed water pendant,0.5,water,1.1,0.6,1.25,89,warlock
+756,legendary cursed earth wand,0.5,earth,1.25,0.75,1.25,170,warlock
+757,legendary cursed earth staff,2.8,earth,1.35,0.85,1.25,297,warlock
+758,legendary cursed earth orb,1.0,earth,1.15,0.65,1.25,133,warlock
+759,legendary cursed earth grimoire,1.5,earth,1.2,0.7,1.25,166,warlock
+760,legendary cursed earth pendant,0.5,earth,1.1,0.6,1.25,88,warlock
+761,legendary cursed ice wand,0.5,ice,1.25,0.75,1.25,178,warlock
+762,legendary cursed ice staff,2.8,ice,1.35,0.85,1.25,292,warlock
+763,legendary cursed ice orb,1.0,ice,1.15,0.65,1.25,121,warlock
+764,legendary cursed ice grimoire,1.5,ice,1.2,0.7,1.25,163,warlock
+765,legendary cursed ice pendant,0.5,ice,1.1,0.6,1.25,85,warlock
+766,legendary cursed lightning wand,0.5,lightning,1.25,0.75,1.25,170,warlock
+767,legendary cursed lightning staff,2.8,lightning,1.35,0.85,1.25,294,warlock
+768,legendary cursed lightning orb,1.0,lightning,1.15,0.65,1.25,129,warlock
+769,legendary cursed lightning grimoire,1.5,lightning,1.2,0.7,1.25,163,warlock
+770,legendary cursed lightning pendant,0.5,lightning,1.1,0.6,1.25,78,warlock
+771,legendary cursed healing wand,0.5,healing,1.25,0.75,1.25,181,warlock
+772,legendary cursed healing staff,2.8,healing,1.35,0.85,1.25,300,warlock
+773,legendary cursed healing orb,1.0,healing,1.15,0.65,1.25,119,warlock
+774,legendary cursed healing grimoire,1.5,healing,1.2,0.7,1.25,171,warlock
+775,legendary cursed healing pendant,0.5,healing,1.1,0.6,1.25,85,warlock
