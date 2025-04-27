@@ -18,14 +18,15 @@ base_rar = {
 item2 = ['wand', 'staff', 'orb', 'grimoire', 'pendant']
 adj2 = ['arcane', 'holy', 'cursed']
 nature = ['fire', 'water', 'earth', 'ice', 'lightning', 'healing']
+eff_nature = [4, 5, 7, 6, 8, 9]
 
 pref_class = {
-    'swift': 'rouge',
-    'gallant': 'knight',
-    'blackstone': 'dwarf',
-    'cursed': 'warlock',
-    'holy': 'paladin',
-    'arcane': 'mage'
+    'swift': 3, #'rouge'
+    'gallant': 4, #'knight'
+    'blackstone': 2, #'dwarf'
+    'cursed': 6, #'warlock'
+    'holy': 5, #'paladin'
+    'arcane': 1 #'mage'
 }
 
 base_weights = {
@@ -49,19 +50,19 @@ base_weights = {
     'pendant': 0.5
 }
 base_effects1 = {
-    'dagger': 'slashing',
-    'shortsword': 'slashing',
-    'longsword': 'slashing',
-    'rapier': 'piercing',
-    'knife': 'piercing',
-    'spear': 'piercing',
-    'bow': 'piercing',
-    'crossbow': 'piercing',
-    'mace': 'blunt',
-    'hammer': 'blunt',
-    'flail': 'blunt',
-    'axe': 'slashing',
-    'shield': 'blunt',
+    'dagger': 1,
+    'shortsword': 1,
+    'longsword': 1,
+    'rapier': 2,
+    'knife': 2,
+    'spear': 2,
+    'bow': 2,
+    'crossbow': 2,
+    'mace': 3,
+    'hammer': 3,
+    'flail': 3,
+    'axe': 1,
+    'shield': 3,
 }
 base_effects_val= {
     'dagger': 0.2,
@@ -124,12 +125,10 @@ with open("items.csv", "w") as file:
                     file.write(f"{index},"
                                f"{full_name},"
                                f"{weight},"
-                               f"{nat},"
+                               f"{eff_nature[nature.index(nat)]},"
                                f"{float(eff_factor) + 1},"
                                f"{float (eff_factor) + 0.5},"
                                f"{base_rarity},"
                                f"{money_cost},"
                                f"{prf_class}"
                                f"\n")
-
-
